@@ -6,7 +6,7 @@ import { Layout } from './components/Layout/Layout';
 
 export const App: React.FC = () => {
   return (
-    <Router basename="/todo-app/">
+    <Router>
       <Routes>
         <Route
           path="/"
