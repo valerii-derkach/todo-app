@@ -28,8 +28,8 @@ Follow these steps to get a development environment running:
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/valerii-derkach/todo-app.git
+cd todo-app
 ```
 2. **Install dependencies:**
 ```
